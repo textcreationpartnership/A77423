@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe description of the two revolted nations Holland and England. Against their true and lawfull Kings, lawes, and statutes, to the dishonour of God, and the losse of their owne soules for ever. Who are now in open rebellion, oppressing their fellow-subiects by excises, taxes, assessements, and extortion; exceeding all Turks, Jews, heathens, infidells, pagons, traytors, and rebells. Read and jugde [sic]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77423</idno>
+            <idno type="STC">Wing B4572</idno>
+            <idno type="STC">Thomason E597_6</idno>
+            <idno type="STC">ESTC R206291</idno>
+            <idno type="EEBO-CITATION">99865465</idno>
+            <idno type="PROQUEST">99865465</idno>
+            <idno type="VID">117706</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117706)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E597[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe description of the two revolted nations Holland and England. Against their true and lawfull Kings, lawes, and statutes, to the dishonour of God, and the losse of their owne soules for ever. Who are now in open rebellion, oppressing their fellow-subiects by excises, taxes, assessements, and extortion; exceeding all Turks, Jews, heathens, infidells, pagons, traytors, and rebells. Read and jugde [sic]</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>in the ninth yeare of tyrannie. [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 1st 1650".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  Wars of Independence, 1556-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117706:1" rendition="simple:additions"/>
+            <p>A briefe DESCRIPTION Of the two revolted NATIONS HOLLAND and ENGLAND.</p>
+            <p>Againſt their true and lawfull Kings, Lawes, and Statutes, to the diſhonour of GOD, and the loſſe of their owne Soules forever.</p>
+            <p>Who are now in open Rebellion, oppreſſing their Fellow-Subiects by Exciſes, Taxes, Aſſeſſements, and Ex<g ref="char:EOLhyphen"/>tortion; exceeding all Turks, Jews, Heathens, Infidells, Pagons, Traytors, and Rebells.</p>
+            <q>Read and Judge:</q>
+            <p>Printed at <hi>London</hi> in the ninth Yeare of Tyrannie.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117706:2"/>
+            <pb n="1" facs="tcp:117706:2"/>
+            <head>A briefe DESCRIPTION Of the two uſurped STATES, ENGLAND and HOLLAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Condition to the <hi>Hollander</hi> is chur<g ref="char:EOLhyphen"/>iſh, as their Breeder <hi>Neptune,</hi> and with<g ref="char:EOLhyphen"/>out doubt very ancient, for they were bred before Mannors were in faſhion, yet what they have not they do account ſuperfinitie, which they fay mendeth ſome, and marreth others: they ſhould make good <hi>Juſtices,</hi> for they reſpect neither Perſon nor Apparell, a Boare in his liquid ſloppe ſhall have a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much reſpect and good uſage, as a Gentlman in all his Brave<g ref="char:EOLhyphen"/>rie, for he that is Courtly or Gentile, it amongſt them like a Merline after Michaelmas amongſt the Crowes; they won<g ref="char:EOLhyphen"/>der at and envie, but worſhip no ſuch Images, marry with a ſilver Hooke you may take theſe Gudgeons preſently; the love of Money being as naturall to them as Water to a Gooſe, or Carren to a Crow; but our <hi>Engliſh</hi> State Cor<g ref="char:EOLhyphen"/>morants goe beyond them in curſed coveting of mens E<g ref="char:EOLhyphen"/>ſtates, for they devide the wealth of the whole Kingdome into three parts, and they have gotten two parts to them<g ref="char:EOLhyphen"/>ſelves, the Crowne and the Church-Lands, and of the third part, what in Exciſe, Compoſition Money, and other Taxes, they have two parts of that, ſo they have left the whole Kingdome but a third of a third part to live on; and yet they are not ſatisfied but cry like Hell and the Grave, cry
+<pb n="2" facs="tcp:117706:3"/>
+               <hi>more.</hi> The <hi>Dutch</hi> are generally boreiſh, yet none but may be bred to a Stateſ-man; ſo out <hi>Engliſh</hi> Saints at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> do intend to follow them, for as much as in them lies, they go about to beggar and baniſh the Gentrie, that <hi>Dick</hi> and <hi>Tom, Will</hi> and <hi>Iock, Ralph</hi> and <hi>Harry,</hi> may be all in all. They have one gift, not to be nice conſcientious, and ſo are our States, and can as well as they turne out Religion to let in Policie; their Countrey is their God they worſhip; ſo <hi>England</hi> is the Idoll of our States; War is their Heaven, ſo ſpilling of blood is ours; Cuſtom is their Law, and the ſword it ours. They are ſeldom deceived, for they truſt none, and ſo by conſequence are better able to keepe a Fort then wit it; yet they can doe both as well as we: they ſhall abuſe a Stranger for nothing, and we one another as little; nothing can quiet them but Money and Liberty, and (then like us) when they have them both, they abuſe them; but if you tell them or us ſo, you awak our fury, and you may ſooner calm the Sea, then convince that into a compaſſe againe; They are like us, they love none but thoſe that do for them, &amp; when thoſe leave off, they neglect them; all that helpe them not they hold Popiſh, and take it for an Argument of much ho<g ref="char:EOLhyphen"/>neſty to raile bitterly againſt the King of <hi>Spaine:</hi> ſo our <hi>weſt<g ref="char:EOLhyphen"/>minster masters</hi> account every one Malignant that doth not adhere to their Faction, and not onely villifie our late K<g ref="char:punc">▪</g> they murthered, but alſo raile againſt his Son our King, that is or ought to be. But certainly, this is the badge of an ill Nature, that when they have once caſt off the yoake of O<g ref="char:EOLhyphen"/>bedience to be moſt-violent againſt thoſe to whom of right they owe all reſpect &amp; ſervice; gratefull diſpoſitions (though by their Lords they be exempted from ſervice) will yet bee paying reverance and affection: I am confident, had not the <hi>Dutch</hi> been once the Subject of <hi>Spaine,</hi> they would have loved that Nation better then any other; and it is a ſuffici<g ref="char:EOLhyphen"/>ent ground to continue their eternall hate, to know the world remembers, that they were once the lawfull Subjects to the Catholick King: ſo there is nothing vexes and an<g ref="char:EOLhyphen"/>gers our <hi>Westminſter</hi> Rebels, then that the World takes no<g ref="char:EOLhyphen"/>tice
+<pb n="3" facs="tcp:117706:3"/>of their Rebellion againſt their lawfull King of bleſſed memory, and that his Son lives to ſcourge them for it. Their Shipping is their <hi>Babell</hi> which they boaſt on, for the glory of their Nation: 'tis indeed a wonder, and they will have it ſo, but we may hope, they will never be ſo mighty by Land, leaſt they ſhew us how doggedly they can tyrannize where they get the Victory, witneſſe at <hi>Amboyna</hi> and <hi>Leyden;</hi> 'tis their own Chronicle buiſines that tells you, that at the ſiege of <hi>Leydons</hi> a Fort being held by the <hi>Spaniard,</hi> was after by the <hi>Dutch</hi> taken by aſſault; where one of the <hi>Dutch</hi> in the fury of the ſlaughter, ript up the Captaines Body, and with a barbarous hand, toare out the yet living heart (panting a<g ref="char:EOLhyphen"/>mong the reeking Bowells) and then with his Teeth rent it (ſtill warm with blood) into gobets, flung it over the battle<g ref="char:EOLhyphen"/>ments indefience of the reſt of the Armie. Yet our barbar<g ref="char:EOLhyphen"/>ous Blood-ſuckers of <hi>England,</hi> have our gone them in cruel<g ref="char:EOLhyphen"/>ties, witneſſe the butchering and unhumane uſeing of that ever to be praiſed noble Lord, my Lord of <hi>Northampton</hi> at <hi>Hopton-Heath:</hi> the barbarous maſſacring in cold blood of Col. <hi>Stanhope</hi> in <hi>Shelford</hi> Garriſon, and Sir <hi>Ch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rls Lucas,</hi> and Sir <hi>Geo: Liſle</hi> at <hi>Colchester, cum multis aljis,</hi> O bloody Ty<g ref="char:EOLhyphen"/>gers! the Scithian Beare could not have been more ſavage. To be neceſſitated unto cruelty, is a detraction to be ſtrong<g ref="char:EOLhyphen"/>ly tempted to it; but to ſpleen, rage, and mad it ſelfe in cold blood upon a reſiſtles enemy, ſhewes nature ſlept in the li<g ref="char:EOLhyphen"/>quid gall of Paſſion, and beyond all brutiſhneſſe, and diſ<g ref="char:EOLhyphen"/>playes the unnoble tyranny of a prevailing Coward.</p>
+            <p>Their Navies are the whip of <hi>Spaine,</hi> where with they pull away his Indyes, Nature hath not bred them ſo active for the Land as we, but at the Sea, they are Water-Devills, to attempt things incredible. A <hi>Turkiſh</hi> Man of War is as dreadfull to them, as a Falcon to a Mallerd; from whom their beſt remedy is, run away; for if they come to blowes, they want the valiant ſtoutneſſe of the <hi>Engliſh,</hi> who will rather expire bravely, then in a cold reſiſtance, yeeld to the laſting ſlavery of becoming Captives to ſo barbarous a Conqueror.</p>
+            <pb n="4" facs="tcp:117706:4"/>
+            <p> Their Government is Anarchy, and there had need hee many to rule ſuch a rabble of rude ones, they began that diabollicall Anarchicall Government, and we have followed them, and being good Profeſſors have out-gone them in their Art; for they onely threw off the Yoake of Obedi<g ref="char:EOLhyphen"/>ence in croſſing the Deſignes of their King, in bringing in that cruell unjuſt Court of <hi>Inqueſition:</hi> but we by a more cruell, unjuſt, and unheard of Court, have crucified our K. Their taking up Armes, was to preſerve the lives of their Nobilitie, whoſe deaths they ſuppoſed was intended by the Duke <hi>de Alua:</hi> but we have taken up Arms to deſtroy our Nobility out of the Land; they onely baniſhed their King, and aboliſhed His Royall Power out of ſome part of His Dominions, but wee have moſt barbarouſly Butchered our King at his owne Gate; and baniſht his Son and Heire, our King that ought to be, out of all his Dominions. Tell them of a King in jeſt, and they could out your Throat in earneſt: but our <hi>Weſtminſter</hi> Saints have another way (for thoſe that tell them of a King) which is to hang them by a LAW of their owne making; the name of a King being as hatefull to us both, as Images to a <hi>Jew,</hi> old age to a Woman, or a Sur<g ref="char:EOLhyphen"/>plugs to a Noncenfermiſt: None amongſt them have Au<g ref="char:EOLhyphen"/>thority by Inheritance; that was to percell out their Coun<g ref="char:EOLhyphen"/>trey into Families; but they are choſen (as our King did uſe to prick Shreiffes for their Countries) not for their fulneſſe of Wit, but for their Wealth they have to beare it out with, which they ſo ever affected, that they will walke the ſtreets (like out Uſurers, when they go to a Baudy-houſe) all alone melancholly, and if they may be had cheape, ſhall daube his faced Cloake with two penny worth of Pickled Herrings, which himſelfe ſhall carry home in a ſtring. Their Iuſtice is ſtrickt if it croſſe not policie; but (like our Grandees) rathes then hinder Traſtick, tollerate any thing; there is not under Heaven ſuch a Den of ſeverall Serpents as <hi>Amsterdam</hi> is, nor in all <hi>Europe</hi> ſuch a Neſt of Saint-Devills as in <hi>London.</hi> you may be in either of theſe what Devill you pleaſe, ſo you
+<pb n="5" facs="tcp:117706:4"/>puſh not the States with your Hornes; they are each of them an Univerſitie of Opinions, which growes here con<g ref="char:EOLhyphen"/>fuſedly (like as in a Nurſerie) without order or prunning: If you be unſetled in your Religion, you may try all, and take at laſt what you like beſt, as the <hi>Camolion</hi> changes into all colours but white, ſo they admit of all Religions but the true; yet the Papiſt onely may not excerciſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Religion in publick amongſt the <hi>Dutch,</hi> yet they plead this not for hat<g ref="char:EOLhyphen"/>red of it, but Iuſtice; becauſe the <hi>Spaniard</hi> will not tollerate the Proteſtant, and they had rather ſhew a little ſpleen, then not cry quit with the Enemy. Their Exciſe is their Exche<g ref="char:EOLhyphen"/>quer, which they ſo ſtrictly obſerve and gather, that you cannot eate a Sallet without paying ſix ſeverall Exciſes for it, yet one good Commodity they have by it (that without Taxing or Pouling of them) it payes all the Souldrey both by Sea and Land, and defrayes all other Charges of their Common-wealth both at home and abroad; but we <hi>Engliſh</hi> are not ſo happie, for though our Exciſe will treble theires, and their Expences treble ours, yet our bleſſed States makes us pay Tax upon Tax, and like cruell <hi>Egyptian</hi> Task-maſters, makes us make Bricke without Straw; but the reaſon is, (I give it you in their owns Language) they ſay, it is ſit that every one of this pious <hi>lunch,</hi> (I meane the Parliament) ſhould have a hundred thouſand pounds in ready Money by them, that if the King doe unſtate them (which I truſt in God he will doe ſhortly) they may eſcape away to the Land of Promiſe beyond Sea, if Prince <hi>Rupert</hi> catch them not by the way and <hi>Hoyle</hi> them againſt their wills: In their Families they are all equalls, and you have no way to know the Maſter and Miſtris, but by taking of them in Bed toge<g ref="char:EOLhyphen"/>ther, it may be they be they; otherwiſe <hi>Malkin</hi> can prate as much, laugh as lowd, be as bold, and fit as well as her Miſtris; Father and Son are there undividialls, for no demonſtration of dutie or authoritie can diſtinguiſh them, as if they were created together and not borne ſucceſſively; and for the Mother, the Daughter bedding her good-night, and kiſſing
+<pb n="6" facs="tcp:117706:5"/>her, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s punctuall bleſſing; your Man ſhall be ſaucie, and you muſt not ſtrike him, if you doe, hee ſhall complaine to the Schoole, and have recompence, ſo in <hi>England,</hi> they are taking a ready way to bring in a Parity, <hi>Like to like ſaith the Devil to the Collier, and Joane is as goody as my Ladie:</hi> and for Children, they asking their Parents, <hi>doe you ſee me?</hi> and they anſwering, <hi>yes, I doe ſee you, and will remember you,</hi> is punctu<g ref="char:EOLhyphen"/>all Bleſsing. Marriage is honourable among them (but as it is now with us) <hi>Sans Ceremony</hi> their Opinion is, that Mar<g ref="char:EOLhyphen"/>niage was ordained onely for procreation of Children, and that none ought to marry but thoſe that are fruitfull, which makes them give ſuch Liberty to their Children, that many time they goe to bee married with a Child in their hand, which their Husbands never knew the getting of, and yet it is held no diſhonour for her Husband; for then he may be confident ſhe is not barren, and their marriage is lawfull: Bawdy-Houſes are as frequent as Taverns are with us, and hang up Buſhes as well as they, to let the people that paſſe by, know what Occupation they are of; to conclude, there is one thing among them very comendable, (which to our ſhame in <hi>England</hi> we have not) that is, though they have many poore yet they have few or no Beggers, for they pro<g ref="char:EOLhyphen"/>vide for them, be ſetting thoſe at worke that are able, and maintaining them that are not, in convenient places.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
